@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are 3 todos 1`] = `
+<div>
+  <h2>
+    Shopping
+  </h2>
+  <h2>
+    Yoga class
+  </h2>
+  <h2>
+    Doctor Appointment
+  </h2>
+</div>
+`;
+
+exports[`renders correctly when there are empty todo 1`] = `
+<span>
+  Todo list is empty
+</span>
+`;
+
+exports[`renders correctly when there are no todos 1`] = `null`;
